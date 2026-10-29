@@ -18,7 +18,7 @@ A automação foi realizada utilizando o Postman, com testes de validação das 
 O vídeo demonstra a configuração da ferramenta, a preparação dos testes e a execução da coleção, incluindo os resultados obtidos.
 
 **Link do vídeo de demonstração:**  
-
+https://youtu.be/DO2Xd87fQgg
 
 ## Ferramentas utilizadas
 
